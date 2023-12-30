@@ -1,0 +1,26 @@
+.heading {
+  font-size: 24px;
+  font-weight: 500;
+  color: rgb(49 46 152);
+}
+
+.subHeading {
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(49 46 152 / 70%);
+  display: block;
+  margin-bottom: 48px;
+}
+
+.grid {
+  display: flex;
+  gap: 32px;
+}
+
+.box {
+  background: white;
+  box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.2);
+  border-radius: 16px;
+  height: 372px;
+  width: 416px;
+}
